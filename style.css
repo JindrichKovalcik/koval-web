@@ -170,4 +170,11 @@
             margin-left: 0px;
             padding-left: 10px;
         }
+
+        .hero {
+            padding: 20px 20px;
+            h1 {
+                display: none;
+            }
+        }
     }
