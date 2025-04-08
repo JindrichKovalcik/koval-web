@@ -8,10 +8,10 @@
     body {
         background-color: #f4f7f4;
         background-image: url("circuit-board.svg");
-        /*background-image: url("cyber-bg.jpg");*/
+        /*background-image: url("cyber-bg.jpg");
         background-size: cover;
         background-position: center;
-        background-repeat: no-repeat;
+        background-repeat: no-repeat;*/
         margin: 0;
         font-family: "Consolas", monospace;
         background-color: var(--bg-color);
